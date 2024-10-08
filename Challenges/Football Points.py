@@ -1,0 +1,1 @@
+football_points = lambda wins, draws, losses: (wins * 3) + (draws * 1) + (losses * 0)

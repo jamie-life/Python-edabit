@@ -1,0 +1,1 @@
+addition = lambda num: num + 1
